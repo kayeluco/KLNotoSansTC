@@ -7,8 +7,8 @@
 - 化學譯音用字，𱽦酮/守酮，thujone的譯名
 
 # 檔案使用
-- .ttf 為電腦安裝檔
-- .woff & .woff2 為網頁文字檔
+- .ttf 用於安裝在電腦的字型檔案
+- .woff & .woff2 用於網頁字的檔案，可自行 host 字型
 
 # 示範網頁字網站
 https://regulations.dipsip.com.tw/
