@@ -2,7 +2,7 @@
 基於 Noto Sans TC 修改的字型，增加化學生僻字（𱽦），並且使用了新的名稱 KLNotoSansTC，依據 SIL Open Font License 1.1 授權發佈。
 
 # 𱽦，讀音：ㄕㄡˇ
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/U31f66.svg/240px-U31f66.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/U31f66.svg/240px-U31f66.svg.png" style="background: white">
 化學譯音用字，𱽦酮，thujone的譯名
 
 # 檔案使用
