@@ -3,15 +3,19 @@
 
 # 𱽦，讀音：ㄕㄡˇ，化學譯音用字，𱽦酮，thujone的譯名
 
+
 # 檔案使用
 - .ttf 為電腦安裝檔
 - .woff & .woff2 為網頁文字檔
 
+
 # 示範網站
 https://regulations.dipsip.com.tw/
 
-如有任何問題歡迎聯絡我
+
+#聯絡我
 kaye@kayelu.com
+
 
 # 參考網站
 https://zh.wiktionary.org/wiki/%F0%B1%BD%A6
