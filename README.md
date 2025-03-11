@@ -2,6 +2,8 @@
 基於 Noto Sans TC 修改的字型，增加化學生僻字（𱽦），並且使用了新的名稱 KLNotoSansTC，依據 SIL Open Font License 1.1 授權發佈。
 本字形為黑體。
 
+<img src="https://kayelu.com/images/projects/anewword.jpg">
+
 # 𱽦，讀音：ㄕㄡˇ
 - 發音同：守
 - ⿱艹守
